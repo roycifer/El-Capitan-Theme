@@ -1,5 +1,17 @@
 [
 //
+// TITLE BAR
+//
+
+    // Title bar
+    {
+        "class": "title_bar",
+        "bg": [30, 30, 30],
+        "fg": [255, 255, 255]
+    },
+
+
+//
 // TABS (REGULAR)
 //
 
