@@ -536,7 +536,7 @@
     {
         "class": "sidebar_label",
         "parents": [{"class": "tree_row", "attributes": ["selected"]}],
-        "color": [0,0,0]
+        "color": [174,174,174]
     },
     // Sidebar entry transient
     {
