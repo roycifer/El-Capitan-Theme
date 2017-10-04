@@ -117,7 +117,6 @@
         "shadow_color": [255, 255, 255],
         "shadow_offset": [0, 0],
         "font.face": "Helvetica Neue",
-        "font.size": 11,
         "font.italic": false
     },
     {
